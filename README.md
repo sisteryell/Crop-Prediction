@@ -42,7 +42,7 @@ A simple machine learning web application built with Flask that predicts the mos
 
 ```bash
 git clone https://github.com/sisteryell/Crop-Prediction.git
-cd crop-prediction-flask
+cd crop-prediction
 ```
 
 ### 2. Run the app
