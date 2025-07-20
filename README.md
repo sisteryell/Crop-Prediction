@@ -4,18 +4,6 @@ A simple machine learning web application built with Flask that predicts the mos
 
 ---
 
-## 📌 Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Model Details](#model-details)
-- [Screenshots](#screenshots)
-- [Future Improvements](#future-improvements)
-
----
-
 ## ✅ Features
 
 - User-friendly web interface using Flask  
@@ -45,7 +33,28 @@ git clone https://github.com/sisteryell/Crop-Prediction.git
 cd crop-prediction
 ```
 
-### 2. Run the app
+### 2. Create and activate a virtual environment
+
+🔹 On macOS/Linux:
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+🔹 On Windows:
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+### 3. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Run the app
 ```bash
 python app.py
 ```
