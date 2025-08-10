@@ -104,5 +104,5 @@ The model was trained using a labeled dataset of environmental conditions and co
 ---
 
 ## 🚧 Future Improvements
-- Hyperparameter tuning to improve model accuracy
-- Improve UI with Bootstrap or Tailwind
+- Hyperparameter tuning to improve model accuracy.
+- Improve UI with Bootstrap or Tailwind.
